@@ -1,6 +1,6 @@
 /* Kotlin Version
 
-class MyFastMap(private val map: Map<Int, Any>) {
+class MyFastMap(map: Map<Int, Any>) {
 
     init {
         TODO("init your map with values from [map]")
